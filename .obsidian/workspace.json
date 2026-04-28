@@ -4,21 +4,49 @@
     "type": "split",
     "children": [
       {
-        "id": "51486278d29ba5d2",
+        "id": "1acced1e621660b4",
         "type": "tabs",
         "children": [
           {
-            "id": "b527835f2c3780b7",
+            "id": "9b57441afe4e6032",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "做过的案例笔记/1- 基于CNN的mnist手写数字识别/基于CNN的mnist手写数字识别.md",
+                "file": "1-实践/基础案例/2-基于逻辑回归的猫VS狗/笔记.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "基于CNN的mnist手写数字识别"
+              "title": "笔记"
+            }
+          },
+          {
+            "id": "196e140a22174cc3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2-理论/机器学习/1机器学习笔记-通俗易懂版.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1机器学习笔记-通俗易懂版"
+            }
+          },
+          {
+            "id": "6fd92c3a46c8bf13",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2-理论/机器学习/1机器学习笔记-专业进阶版.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1机器学习笔记-专业进阶版"
             }
           }
         ]
@@ -156,13 +184,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "做过的案例笔记/1- 基于CNN的mnist手写数字识别/基于CNN的mnist手写数字识别.md",
+                "file": "1-实践/基础案例/2-基于逻辑回归的猫VS狗/笔记.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "基于CNN的mnist手写数字识别 的大纲"
+              "title": "笔记 的大纲"
             }
           }
         ],
@@ -170,7 +198,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269.5
+    "width": 271.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -184,29 +212,54 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "045ea00d0be787bf",
+  "active": "9b57441afe4e6032",
   "lastOpenFiles": [
-    "做过的案例笔记/1- 基于CNN的mnist手写数字识别/图片文件/image_path.jpg",
-    "做过的案例笔记/1- 基于CNN的mnist手写数字识别/图片文件/image_path2.jpg",
-    "做过的案例笔记/1- 基于CNN的mnist手写数字识别/基于CNN的mnist手写数字识别.md",
-    "做过的案例笔记/1- 基于CNN的mnist手写数字识别/图片文件",
-    "做过的案例笔记/1- 基于CNN的mnist手写数字识别/图片文件/prediction_results.png",
-    "做过的案例笔记/1- 基于CNN的mnist手写数字识别/图片文件/prediction_results 1.png",
-    "做过的案例笔记/1- 基于CNN的mnist手写数字识别",
-    "image_path2 1.jpg",
-    "image_path 1.jpg",
-    "Pasted image 20260411233947.png",
-    "IMG_20260410_223902.jpg",
-    "().md",
-    "实用工具/稳定的梯子.md",
+    "2-理论/机器学习/机器学习-基础理论.md",
+    "1-实践/基础案例/2-基于逻辑回归的猫VS狗/笔记.md",
+    "1-实践/基础案例/2-基于逻辑回归的猫VS狗",
+    "1-实践/CV案例练手路线.md",
+    "1-实践/计算机视觉学习路径_2026-04-28 15_14_00.md",
+    "Pasted image 20260428145753.png",
+    "Pasted image 20260428145640.png",
+    "Pasted image 20260428145100.png",
+    "Pasted image 20260428111005.png",
+    "Pasted image 20260428105417.png",
+    "Pasted image 20260428104601.png",
+    "Pasted image 20260428104311.png",
+    "Pasted image 20260428100342.png",
+    "Pasted image 20260428100028.png",
+    "2-理论/机器学习/1机器学习笔记-通俗易懂版.md",
+    "2-理论/机器学习/1机器学习笔记-专业进阶版.md",
+    "2-理论/机器学习/CV-欠拟合与过拟合.md",
+    "2-理论/机器学习/欧氏距离和马氏距离.md",
+    "2-理论/机器学习/标准化与归一化.md",
+    "Pasted image 20260427204230.png",
+    "2-理论/机器学习/图附录/2026.4.27",
+    "2-理论/深度学习/卷积神经网络.md",
+    "1-实践/论文复现/3-glove模型/代码跑通指南.md",
+    "1-实践/论文复现/1-TextCNN/代码跑通指南.md",
+    "1-实践/论文复现/3-glove模型",
+    "1-实践/论文复现/2-Word2Vev/代码跑通指南.md",
+    "1-实践/论文复现/2-Word2Vev",
+    "1-实践/论文复现/1-TextCNN",
+    "2-理论/NLP/NLP-基础理论.md",
+    "2-理论/NLP/NLP-必备理论.md",
+    "4-日志/研0-学习日志.md",
+    "4-日志/研0-文献阅读记录.md",
+    "1-实践/基础案例/1- 基于CNN的mnist手写数字识别/4月21日前-学习汇总.md",
+    "4-日志/研0-NLP基础ddl.md",
     "About my kowledge base.md",
-    "日志/研0-学习日志.md",
-    "日志",
-    "实用工具",
-    "做过的案例笔记",
-    "吴恩达-机器学习/机器学习的概念.md",
-    "吴恩达-机器学习",
+    "1-实践/基础案例/2-《红楼梦》前八十回与后四十回用词风格对比/案例拆解.md",
+    "1-实践/基础案例/2-《红楼梦》前八十回与后四十回用词风格对比/附-代码.md",
+    "2-理论/深度学习/图附录/2026.4.20",
+    "2-理论/深度学习/图附录",
+    "2-理论/NLP",
     "未命名.base",
-    "新建文本文档.txt"
+    "未命名.canvas",
+    "2-理论/机器学习/图附录/2026.4.15",
+    "2-理论/机器学习/机器学习的概念.md",
+    "6-论文阅读记录/新能源异常分析.md",
+    "3-实用工具/Hugging Face.md",
+    "未命名.md"
   ]
 }
